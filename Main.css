@@ -1,0 +1,26 @@
+a:link {
+  color: rgb(14, 88, 14);
+}
+
+a:visited {
+  color: rgb(14, 88, 14);
+}
+
+a:hover {
+  color: rgb(88, 51, 122);
+  background: rgb(221, 214, 214);
+  padding: 2%;
+}
+
+a:active {
+  color: rgb(255, 230, 0);
+}
+
+H2 {
+  color:rgb(81, 38, 128);
+}
+
+table {
+  border-style: solid;
+  border-color: black;
+}
